@@ -7,7 +7,6 @@ output: pdf_document
 
 ```{r setup, include=FALSE}
 ```print("Hello World")
-
 ## This is Markdown File
 ```{r setup, include=FALSE}
 ```
